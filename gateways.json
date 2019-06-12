@@ -2,7 +2,7 @@
 	"https://ipfs.io/ipfs/:hash",
 	"https://gateway.ipfs.io/ipfs/:hash",
 	"https://ipfs.infura.io/ipfs/:hash",
-	"https://rx14.co.uk/ipfs/:hash",
+	"https://ipfs.ee/ipfs/:hash",
 	"https://ninetailed.ninja/ipfs/:hash",
 	"https://upload.global/ipfs/:hash",
 	"https://ipfs.globalupload.io/ipfs/:hash",
