@@ -13,7 +13,7 @@ function addNode (gateway, online, status, roundtripInMs) {
   let node
   if (online) {
     node = document.createElement('strong')
-    node.innerHTML = '✅ - 在线  - ' + returnHtmlLink(gateway)
+    node.innerHTML = '😆 - 在线  - ' + returnHtmlLink(gateway)
     node.innerHTML += ' (' + roundtripInMs + 'ms)'
   } else {
     node = document.createElement('div')
